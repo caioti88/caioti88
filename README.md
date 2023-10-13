@@ -21,6 +21,8 @@
 
 ![Snake animation](https://github.com/caioti88/caioti88/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=caioti88&repo=caioti88&theme=react)](https://github.com/caioti88/caioti88)
 
 
