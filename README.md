@@ -2,7 +2,7 @@
 
 
 
-- 🔭 hoje eu estou aprendendo sobre programaçâo e suas linguagens 
+- 🔭 hoje eu estou aprendendo sobre programação e suas linguagens 
 - 😄 pronouns: ele/dele
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caioti88&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=2E8B57&bg_color=A9A9A9" alt="Caio Santana github stats" /> 
